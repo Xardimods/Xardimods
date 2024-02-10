@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Enyel Liranzo!</h1>
 
-¡Hola! Soy Enyel Liranzo, pero puedes llamarme Xardimods en la web. Soy un desarrollador Backend en constante constanten aprendizaje.
+Also you can call me Xardimods. I'm a 19 years old guy who wants to become a Backend Developer. I like play Minecraft and I'm currently learning English. 
 
 ---
 
