@@ -4,7 +4,7 @@
 
 I'm Enyel, but also you can call me Xardimods. 
 
-- I'm a 20-year old guy who wants to become a Software Engineer. 👔
+- I'm a 21-year old guy who wants to become a Software Engineer. 👔
 - Learning Backend development. 🗄
 - Computer Science (Informatics) student at UASD. 💻
 - I enjoy playing Minecraft. 🎮
